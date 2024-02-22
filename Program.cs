@@ -34,6 +34,10 @@
             #region SixthQuestion - ZigzagConversion
             //new SixthQuestion();
             #endregion
+
+            #region SeventhQuestion - ReverseInteger
+            //new SeventhQuestion();
+            #endregion
         }
     }
 
